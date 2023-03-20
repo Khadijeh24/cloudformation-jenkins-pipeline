@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: A sample template
+Description: A sample template 1
 Resources:
   laxmiec2instance: #An inline comment
     Type: "AWS::EC2::Instance"
