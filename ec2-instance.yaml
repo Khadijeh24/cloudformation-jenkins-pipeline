@@ -2,7 +2,7 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: A sample template
 Resources:
-  laxmiec2instance: #An inline comment
+  khadijehec2instance: #An inline comment
     Type: "AWS::EC2::Instance"
     Properties: 
       ImageId: "ami-02f3f602d23f1659d" #Another comment -- This is a Linux AMI
